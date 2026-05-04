@@ -1,223 +1,184 @@
 # Product Requirements Document
-## Quiz HW2 - Build Google with Multi-Agent AI
+## HW3 - Local Wikipedia RAG Assistant
 
 | Field | Value |
 |---|---|
-| Project Name | Quiz HW2 - Build Google with Multi-Agent AI |
-| Version | 2.0 |
+| Project Name | HW3 - Local Wikipedia RAG Assistant |
+| Version | 1.0 |
 | Course | ITU AI Aided Computer Engineering |
 | Status | Active Draft |
-| Date | 2026-04-19 |
-| Architecture Decision | Hybrid (memory working set + disk snapshot) |
+| Date | 2026-05-04 |
+| Architecture Decision | Native-first local RAG with Option B metadata filtering |
 
 ## 1. Goal
 
-Build a crawler + search system similar to Project 1, but execute development through a documented Multi-Agent AI workflow.
+Build a fully local ChatGPT-style assistant that answers questions about famous people and famous places using Wikipedia as the only content source. The system must run entirely on the user's laptop and must not rely on external LLM or embedding APIs.
 
 The output must include both:
 
-1. Functional system running on localhost
-2. Clear evidence of multi-agent collaboration and decisions
+1. A working local Streamlit application
+2. A clear, reproducible ingestion and retrieval pipeline with traceable storage
 
 ## 2. Core Functional Requirements
 
-### 2.1 Index
+### 2.1 Ingest
 
-Given `origin` and `k`, start crawling and index discovered pages up to depth `k`.
+Collect Wikipedia data for at least 20 famous people and 20 famous places.
+
+Minimum required entries include the assignment list for people and places. The implementation may include additional pages, but it must cover the full minimum set.
 
 Rules:
 
-1. Never crawl the same normalized URL twice
-2. Respect single-machine scalability constraints
-3. Include back-pressure controls
-4. Support controlled crawl lifecycle (start/pause/resume/stop)
+1. Wikipedia pages must be fetched locally through code, not manually copied
+2. Ingestion must be repeatable and idempotent
+3. Each record must carry a category metadata value of `person` or `place`
+4. SQLite must keep a traceable registry of pages and chunks
 
-Primary API contract:
+### 2.2 Chunk
 
-- `POST /index`
-- Request fields: `origin`, `k`
-- Optional fields: `hit_rate`, `max_queue_capacity`, `max_urls_to_visit`, domain filters
-
-### 2.2 Search
-
-Given `query`, return relevant URLs.
-
-Required output form:
-
-- List of triples: `(relevant_url, origin_url, depth)`
+Split documents into smaller chunks before embedding.
 
 Design requirement:
 
-- Search should be callable while indexing remains active
-- New results should appear incrementally as index grows
+1. The chunking strategy must be documented
+2. Chunk size and overlap must be chosen intentionally for retrieval quality
+3. Each chunk must be traceable back to its source page
 
-### 2.3 UI or CLI
+### 2.3 Embed and Store
 
-Provide simple operator interface to:
+Generate embeddings locally and store them in Chroma.
 
-1. Start indexing
-2. Execute search
-3. Monitor state:
-   - indexing progress
-   - queue depth
-   - back-pressure status
+Required design choice:
 
-This project uses dashboard UI (Flask static pages).
+1. Use one Chroma collection
+2. Add metadata fields including `category=person|place`
+3. Store source identity and chunk lineage for debugging and grading transparency
 
-### 2.4 Resume (Plus)
+### 2.4 Retrieve
 
-Resume capability after interruption is a plus and is included in this project through saved state files.
+Determine whether a query is about a person, a place, or both.
+
+Rules:
+
+1. Use a simple keyword or rule-based intent router
+2. Filter retrieval with metadata based on the detected category
+3. For mixed queries, retrieve from both categories and merge the results
+
+### 2.5 Generate
+
+Generate answers using the local LLM and only the retrieved context.
+
+Rules:
+
+1. The model must not invent facts
+2. If the answer is not in context, return exactly `I don't know`
+3. Stream the answer to the UI as it is generated
+
+### 2.6 UI
+
+Provide a Streamlit interface that behaves like a chat application.
+
+UI requirements:
+
+1. Accept natural language questions
+2. Stream answers progressively
+3. Show Retrieval Latency for each response
+4. Show Generation Latency for each response
+5. Show matched source pages in a compact view
 
 ## 3. Technical Constraints
 
 ### 3.1 Native-Only Core Logic
 
-Must use native modules for crawler/search core behavior:
+The core logic must be implemented directly with Python libraries.
 
-- `urllib.*`
-- `threading`, `queue`
-- `html.parser`
-- file-based persistence with `os`, `json`
+Allowed direct integrations:
 
-### 3.2 Minimal Runtime Dependencies
+- `requests` for Wikipedia and Ollama HTTP calls
+- `chromadb` for vector storage
+- `sqlite3` for registry persistence
+- `streamlit` for the UI
 
-Allowed runtime libraries:
+### 3.2 No High-Level RAG Frameworks
 
-- `flask`
-- `flask-cors`
+Do not use LangChain, LlamaIndex, or similar frameworks to hide retrieval and generation behavior.
 
 ### 3.3 Environment
 
 - Localhost execution only
-- Single machine design, no multi-node requirement
+- No external API keys
+- The system must function on a single laptop, including an M4 Pro MacBook Pro
 
-## 4. Hybrid Architecture Decision
+## 4. Architecture Decision
 
 ### 4.1 Decision
 
-Use Hybrid strategy:
+Use Option B:
 
-1. Memory active working set for low search latency
-2. Periodic disk snapshot for durability and restart safety
+1. One Chroma collection
+2. Metadata-based routing and filtering using `category`
 
-### 4.2 Why Hybrid
+### 4.2 Why This Decision
 
-1. Faster incremental search visibility during active indexing
-2. Better resilience than memory-only model
-3. Better interactivity than disk-only model
+1. It keeps the design simple and explainable
+2. It supports mixed questions more flexibly
+3. It matches the assignment constraint to explain category-aware retrieval
 
 ### 4.3 Rejected Alternatives
 
-1. Disk-first rejected for higher read latency during active indexing
-2. Memory-first rejected for higher crash recovery risk
+1. Separate vector stores for people and places were rejected because they complicate mixed-query handling
+2. External APIs were rejected because the project must remain fully local
 
 ## 5. System Design
 
-### 5.1 Crawler Pipeline
+### 5.1 Ingestion Pipeline
 
-1. Seed origin enters queue at depth 0
-2. Worker thread pops URL, normalizes, deduplicates
-3. Fetches content via `urllib`
-4. Extracts links/text using `HTMLParser`
-5. Writes word postings to letter partitions
-6. Enqueues discovered links with `depth + 1`
+1. A fixed list of people and places is used as the starting corpus
+2. Wikipedia pages are fetched through the MediaWiki API
+3. Extracted text is normalized
+4. Page records are stored in SQLite
+5. Chunk records are created and stored with lineage metadata
 
-### 5.2 Back-Pressure
+### 5.2 Vector Pipeline
 
-Two explicit controls:
+1. Chunks are embedded locally with Ollama `nomic-embed-text`
+2. Embeddings are written to Chroma
+3. Metadata includes title, category, source URL, page id, and chunk index
 
-1. Queue depth cap (`max_queue_capacity`)
-2. Rate cap (`hit_rate` requests/sec)
+### 5.3 Retrieval Pipeline
 
-Behavior under pressure:
+1. A simple router classifies each query as person, place, or both
+2. Chroma search is filtered using the metadata category
+3. Top-k chunks are merged into a grounded context block
 
-1. Near-capacity -> throttle/discard new enqueue attempts
-2. Hard cap reached -> controlled stop condition
+### 5.4 Generation Pipeline
 
-### 5.3 Concurrency Model
+1. The local Ollama chat model receives a strict system prompt
+2. The prompt tells the model to answer only from context
+3. If the evidence is missing, it must return `I don't know`
+4. Streaming output is shown in the UI
 
-1. Index writer path uses partition locks
-2. Search reads can run while writer is active
-3. Results are eventually consistent and incrementally visible
+## 6. Acceptance Criteria
 
-### 5.4 Persistence
+### 6.1 Functionality
 
-1. Status snapshot (`.data`)
-2. Frontier snapshot (`.queue`)
-3. Logs (`.logs`)
-4. Global visited record (`visited_urls.data`)
+1. The app ingests the minimum Wikipedia corpus
+2. The app builds a persistent Chroma index
+3. The app answers questions about people and places
+4. The app returns `I don't know` when context is missing
 
-## 6. API Requirements
+### 6.2 UI and Metrics
 
-### 6.1 Index
+1. Streamlit shows partial output during generation
+2. Retrieval Latency is visible below each answer
+3. Generation Latency is visible below each answer
 
-`POST /index`
+### 6.3 Local-Only Behavior
 
-Response fields:
+1. No external LLM APIs are used
+2. No external embedding APIs are used
+3. All runtime artifacts are stored locally
 
-- `crawler_id`
-- `origin`
-- `k`
-- `status`
-
-### 6.2 Search
-
-`GET /search?query=...`
-
-Response requirements:
-
-1. Must include `triples` list in HW2 form
-2. May include extra metadata fields for UI (score, frequency, sort)
-
-### 6.3 Status/Observability
-
-1. `GET /crawler/status/<id>`
-2. `GET /crawler/stats`
-3. `GET /index/stats`
-
-## 7. Multi-Agent Workflow Requirements
-
-### 7.1 Agents
-
-1. Lead Architect Agent
-2. Network and Crawler Specialist
-3. Data and Search Engineer
-4. UI and Integration Expert
-5. QA and Verificator Agent
-
-### 7.2 Process Requirements
-
-1. Each agent has explicit responsibilities
-2. Agents interact via structured proposals and risk notes
-3. Team Lead makes final decisions
-4. All key decisions logged in workflow document
-
-### 7.3 Mandatory Documentation
-
-1. `multi_agent_workflow.md`
-2. Per-agent description files under `agents/`
-
-## 8. Acceptance Criteria (Gold Standard)
-
-### 8.1 Functionality
-
-1. Index endpoint accepts `origin` and `k`
-2. Search returns required triple format
-3. Duplicate pages are not crawled twice
-4. UI can initiate index and search flows
-
-### 8.2 Concurrency
-
-1. Search requests succeed while indexing is active
-2. Newly indexed results can appear without restart
-
-### 8.3 Back-Pressure
-
-1. Queue depth is visible
-2. Throttling/back-pressure status is visible
-3. System avoids unbounded queue growth
-
-### 8.4 Recovery
 
 1. Crawler state can be resumed after interruption
 2. Snapshot files remain parseable and consistent

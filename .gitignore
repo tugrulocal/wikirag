@@ -1,11 +1,17 @@
-﻿
 # Python caching
 __pycache__/
 *.pyc
 
 # Environment files
+.venv/
 venv/
 env/
 .env
 .DS_Store
 *.url
+
+# HW3 runtime data
+data/hw3/
+*.sqlite3
+chroma_db/
+.streamlit/

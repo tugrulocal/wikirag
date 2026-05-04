@@ -1,0 +1,1425 @@
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.data - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.data.tmp' -> 'data/crawlers/test_concurrent.data'
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Atomic write failed: data/crawlers/test_concurrent.queue - [Errno 2] No such file or directory: 'data/crawlers/test_concurrent.queue.tmp' -> 'data/crawlers/test_concurrent.queue'
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler resumed
+[2026-05-04 18:38:53] Crawler paused
+[2026-05-04 18:38:53] Crawler resumed
